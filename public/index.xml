@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/</link>
+      <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Academic CV Theme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu_7939e9d6cac7467d.png</url>
+      <title>Hugo Academic CV Theme</title>
+      <link>http://localhost:4321/</link>
+    </image>
+    
+    <item>
+      <title>Cómputo del coeficiente de Gini para los cantones de Costa Rica</title>
+      <link>http://localhost:4321/policy_work/gini_cantonal_cr_2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/gini_cantonal_cr_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relación entre la participación laboral femenina y las exportaciones de servicios basados en el conocimiento en Costa Rica: Evidencia empírica a nivel de firmas</title>
+      <link>http://localhost:4321/policy_work/mujeres_exportaciones_2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/mujeres_exportaciones_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Análisis del encadenamiento productivo de las empresas multinacionales atraídas por CINDE a Costa Rica</title>
+      <link>http://localhost:4321/policy_work/encadenamientos_cinde_2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/encadenamientos_cinde_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrafactual: participación de la Zona Franca en la actividad económica costarricense</title>
+      <link>http://localhost:4321/policy_work/contrafactual_zf_2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/contrafactual_zf_2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microdata Evidence of Incomplete Monetary Policy Transmission in a Non Competitive Banking Sector: The Case of Costa Rica</title>
+      <link>http://localhost:4321/policy_work/incomplete_mp_trans_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/incomplete_mp_trans_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nowcasting the Costa Rican Quarterly Output Growth</title>
+      <link>http://localhost:4321/policy_work/nowcasting_gdp_cr_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/nowcasting_gdp_cr_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regionalización de la matriz insumo-producto costarricense</title>
+      <link>http://localhost:4321/policy_work/reg_mip_2021/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/reg_mip_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>¿Cómo cambian los ingresos tributario en Costa Rica cuando cambia la actividad económica?</title>
+      <link>http://localhost:4321/policy_work/ing_trib_ulead_2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/ing_trib_ulead_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing public debt sustainability for Costa Rica using the fiscal reaction function</title>
+      <link>http://localhost:4321/policy_work/debt_sust_lajcb_2020/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/debt_sust_lajcb_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Fiscal Multipliers for a Small and Open Economy</title>
+      <link>http://localhost:4321/policy_work/dyn_fiscal_mult_cr_2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/dyn_fiscal_mult_cr_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inversión en Infraestructura y Crecimiento Económico, Relevancia de Factores Institucionales</title>
+      <link>http://localhost:4321/policy_work/inv_inf_crec_una_2018/</link>
+      <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/inv_inf_crec_una_2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inflación y deuda pública</title>
+      <link>http://localhost:4321/policy_work/inflacion_deuda_cemla_2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/inflacion_deuda_cemla_2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimación del déficit de cuenta corriente coherente con flujos de capitales de largo plazo 2000-2016</title>
+      <link>http://localhost:4321/policy_work/ccoherenteconfkdelargoplazo_2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/ccoherenteconfkdelargoplazo_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estructura impositiva y crecimiento económico</title>
+      <link>http://localhost:4321/policy_work/estructura_imp_crec_2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/estructura_imp_crec_2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Análsis cíclico y modelación econométrica de la mora legal bancaria por actividad económica de 1999-2013</title>
+      <link>http://localhost:4321/policy_work/mora_legal_ucr_2016/</link>
+      <pubDate>Tue, 28 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/mora_legal_ucr_2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

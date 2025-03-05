@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article | Hugo Academic CV Theme</title>
+    <link>http://localhost:4321/publication_types/article/</link>
+      <atom:link href="http://localhost:4321/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:4321/media/icon_hu_7939e9d6cac7467d.png</url>
+      <title>Article</title>
+      <link>http://localhost:4321/publication_types/article/</link>
+    </image>
+    
+    <item>
+      <title>Análisis del encadenamiento productivo de las empresas multinacionales atraídas por CINDE a Costa Rica</title>
+      <link>http://localhost:4321/policy_work/encadenamientos_cinde_2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/policy_work/encadenamientos_cinde_2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+baseURL = 'https://example.com/'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+disableAliases = true
+enableEmoji = true
+enableGitInfo = false
+enableRobotsTXT = true
+footnotereturnlinkcontents = '<sup>^</sup>'
+hasCJKLanguage = false
+ignoreFiles = ['\.ipynb$', '.ipynb_checkpoints$', '\.Rmd$', '\.Rmarkdown$', '_cache$']
+removePathAccents = true
+summaryLength = 30
+timeout = 600000
+title = 'Hugo Academic CV Theme'
+
+[build]
+writeStats = true
+
+[imaging]
+anchor = 'smart'
+quality = 80
+resampleFilter = 'lanczos'
+
+[markup]
+_merge = 'deep'
+
+[markup.highlight]
+lineNos = false
+
+[outputs]
+home = ['HTML', 'RSS', 'headers', 'redirects', 'backlinks']
+section = ['HTML', 'RSS']
+
+[pagination]
+pagerSize = 30
+
+[permalinks]
+authors = '/author/:slug/'
+
+[security]
+_merge = 'deep'
+
+[sitemap]
+_merge = 'deep'
+
+[taxonomies]
+author = 'authors'
+publication_type = 'publication_types'
+tag = 'tags'
