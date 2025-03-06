@@ -11,7 +11,7 @@ ignoreFiles = ['\.ipynb$', '.ipynb_checkpoints$', '\.Rmd$', '\.Rmarkdown$', '_ca
 removePathAccents = true
 summaryLength = 30
 timeout = 600000
-title = 'Hugo Academic CV Theme'
+title = 'Kerry Loaiza-Marín'
 
 [build]
 writeStats = true
