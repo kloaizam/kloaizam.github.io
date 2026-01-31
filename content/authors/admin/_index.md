@@ -6,7 +6,7 @@ title: Kerry Loaiza-Marín
 
 education:
 - area: PhD Economics
-  year: "2027 (expected)"
+  year: "2028 (expected)"
   institution: Indiana University
   
 - area: M2 in Economic Theory and Econometrics
@@ -23,6 +23,7 @@ interests:
 - Macroeconomics
 - Time Series Econometrics
 - Machine Learning
+- Forecasting
 
 last_name: Loaiza-Marín
 
@@ -46,4 +47,4 @@ role: PhD Candidate in Economics
 
 ## About Me
 
-Kerry Loaiza-Marín is an economist with research interests in functional time series, empirical macroeconomics with heterogeneous agents, machine learning techniques for macroeconomic analysis, and the interaction between monetary and fiscal policy. I am currently a PhD Candidate at Indiana University, Bloomington.
+Kerry Loaiza-Marín is an economist with research interests in functional time series, empirical macroeconomics with heterogeneous agents, machine learning techniques for macroeconomic analysis and forecasting, and the interaction between monetary and fiscal policy. I am currently a PhD Candidate at Indiana University, Bloomington.

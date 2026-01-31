@@ -1,16 +1,20 @@
 ### Indiana University
-Econ E322: Intermediate Macroeconomics
+Econ E322: Intermediate Macroeconomics: Spring 2025.
 
-Econ B251: Fundamentals of Economics for Business
+Econ B252: Fundamentals of Economics for Business (Macroeconomics): Spring 2024, Fall 2024.
+
+Econ B251: Fundamentals of Economics for Business (Microeconomics): Fall 2025, Spring 2026.
 
 ### Universidad de Costa Rica
-Applied Econometrics I (CAPEC)
+Computation Tools for Finance and Economics: Fall 2024, Fall 2025.
 
-Applied Econometrics II (CAPEC)
+Applied Econometrics I/Cross Section (CAPEC): Fall 2021, Spring 2022, Fall 2022, Fall 2023, Fall 2024, Fall 2025.
 
-Introductory Econometrics 
+Applied Econometrics II/Time Series (CAPEC): Fall 2023, Fall 2024, Fall 2025.
+
+Introductory Econometrics: Fall 2021.
 
 ###  ULACIT
-Introductory Econometrics
+Applied Econometrics: Fall 2022
 
-Quantitative Risk Modeling
+Quantitative Risk Modeling: Spring 2022
