@@ -7,7 +7,7 @@ main:
   - name: CV
     url: /files/cv.pdf
     weight: 10
-  - name: CV (ES)
+  - name: CV (Español)
     url: /files/cv_spanish.pdf
     weight: 10
   - name: Working Papers
