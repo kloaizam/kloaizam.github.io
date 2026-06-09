@@ -32,19 +32,23 @@ organizations:
   url: https://economics.indiana.edu/index.html
 profiles:
 - icon: envelope
-  label: E-mail Me
+  label: kloaizam@iu.edu
   url: mailto:kloaizam@iu.edu
 - icon: brands/github
+  label: GitHub
   url: https://github.com/kloaizam
 - icon: brands/linkedin
+  label: LinkedIn
   url: https://www.linkedin.com/in/kerry-loaiza-marin-75390678/
 - icon: academicons/google-scholar
+  label: Google Scholar
   url: https://scholar.google.com/citations?user=Drq_RdwAAAAJ&hl=en
 - icon: academicons/orcid
+  label: ORCID
   url: https://orcid.org/0000-0003-3040-9686
 role: PhD Candidate in Economics
 ---
 
 ## About Me
 
-Kerry Loaiza-Marín is an economist with research interests in functional time series, empirical macroeconomics with heterogeneous agents, machine learning techniques for macroeconomic analysis and forecasting, and the interaction between monetary and fiscal policy. I am currently a PhD Candidate at Indiana University, Bloomington.
+Kerry Loaiza-Marín is an economist with research interests in functional time series, empirical macroeconomics, machine learning techniques for macroeconomic analysis and forecasting, and the interaction between monetary and fiscal policy. I am currently a PhD Candidate at Indiana University, Bloomington.
