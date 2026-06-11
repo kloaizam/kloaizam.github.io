@@ -5,6 +5,12 @@ title: Policy (and Other) Work
 
 ## Policy (and Other) Work
 
+**"Atlas de Mortalidad por cáncer en Costa Rica 2000–2022"** (2025)  
+Kerry Loaiza-Marín, Juan Rafael Vargas Brenes, Jerlin Villalobos Ledezma, and Yanira Xirinachs Salazar  
+[Slides](/files/slides/Atlas%20Mortalidad%20Cancer%20CR%202000-2022%20slides.pdf) | [Project](https://ccp.ucr.ac.cr/node/847)
+
+---
+
 **"Relación entre la participación laboral femenina y las exportaciones de servicios basados en el conocimiento en Costa Rica: Evidencia empírica a nivel de firmas"** (2022)  
 Kerry Loaiza-Marín, Sandro Zolezzi-Hernández, and Rebeca Torres-Rodríguez  
 [PDF](/files/publications/Loaiza-Mar%C3%ADn%20et%20al%20(2022)%20Participacion_laboral_femenina_y_las_exportaciones_Costa_Rica.pdf)
