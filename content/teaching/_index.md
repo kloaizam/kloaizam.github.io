@@ -1,3 +1,8 @@
+---
+title: Teaching
+cms_exclude: true
+---
+
 ### Indiana University
 Econ E370: Statistical Analysis for Business and Economics: Summer 2026.
 
@@ -16,7 +21,7 @@ Applied Econometrics II/Time Series (CAPEC): Fall 2023, Fall 2024, Fall 2025.
 
 Introductory Econometrics: Fall 2021.
 
-###  ULACIT
+### ULACIT
 Applied Econometrics: Fall 2022
 
 Quantitative Risk Modeling: Spring 2022
