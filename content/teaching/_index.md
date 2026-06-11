@@ -3,6 +3,8 @@ title: Teaching
 cms_exclude: true
 ---
 
+## Teaching
+
 ### Indiana University
 Econ E370: Statistical Analysis for Business and Economics: Summer 2026.
 
